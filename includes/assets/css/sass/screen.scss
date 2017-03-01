@@ -1,0 +1,26 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+
+
+.connect-message {
+	padding: 6px 0;
+	text-align: center;
+	background-color: #2ece0a;
+
+	p {
+		margin-bottom: 0px;
+	}
+}
+
+.table {
+
+	thead {
+		background-color: #333;
+		color: #fff;
+	}
+
+}
